@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1378879722 source:c:\roger\dev\projects\cbtestfirst\main.cpp
+	<iostream>
+	<memory>
+	<vector>
+	<cassert>
+	<algorithm>
+	<string>
+	<iomanip>
+	<locale>
+	<tchar.h>
+	"C11NewFeatures.hpp"
+	"CppMacro.hpp"
+	"CharacterEncodingConversion.hpp"
+	"LocaleUsage.hpp"
+
+1378900107 c:\roger\dev\projects\cbtestfirst\c11newfeatures.hpp
+	<string>
+	<locale>
+	<iostream>
+	<boost/assign/std.hpp>
+	"Utility.hpp"
+
+1378900142 c:\roger\dev\projects\cbtestfirst\cppmacro.hpp
+	"Utility.hpp"
+	<iostream>
+
+1378900160 c:\roger\dev\projects\cbtestfirst\characterencodingconversion.hpp
+	<iostream>
+	<string>
+	<locale>
+	"CppMacro.hpp"
+	<codecvt>
+
+1378901503 c:\roger\dev\projects\cbtestfirst\utility.hpp
+
+1378905182 c:\roger\dev\projects\cbtestfirst\localeusage.hpp
+	<iostream>
+	<clocale>
+	<locale>
+	<chrono>
+	<boost/algorithm/string.hpp>
+	<Windows.h>
+	"Convert.hpp"
+	"Utility.hpp"
+
+1378889092 c:\roger\dev\projects\cbtestfirst\convert.hpp
+	<string>
+
