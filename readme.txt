@@ -10,3 +10,8 @@ dev c++ 中文支持：Illegal byte sequence
 -fwide-exec-charset指定了C/C++中使用宽字符时的格式，默认的就是UTF-16或者UTF32，取决于你的系统中使用的宽字符格 式。（正如上面说的，windows使用UTF16的UNICODE编码，它是UCS2字符集的一个编编码格式；linux使用UTF32编码，是 UCS4的一个编码格式。相应的，windows中的编译器一般将wchar_t定为2个字节宽，而linux中的编译器一般定义wchar_t为4字节 宽。）
 
 tortoisegit usage
+
+
+http://msdn.microsoft.com/en-us/library/windows/desktop/dd373814.aspx
+http://msdn.microsoft.com/en-us/library/windows/desktop/dd318716.aspx
+http://www.unicode.org/iso15924/iso15924-codes.html
