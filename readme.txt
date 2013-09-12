@@ -8,3 +8,5 @@ dev c++ 中文支持：Illegal byte sequence
 另外，windows中常见的UNICODE编码在这里应该写成UTF-16。linux中的UNICODE编码相应的就是UTF32了。
 
 -fwide-exec-charset指定了C/C++中使用宽字符时的格式，默认的就是UTF-16或者UTF32，取决于你的系统中使用的宽字符格 式。（正如上面说的，windows使用UTF16的UNICODE编码，它是UCS2字符集的一个编编码格式；linux使用UTF32编码，是 UCS4的一个编码格式。相应的，windows中的编译器一般将wchar_t定为2个字节宽，而linux中的编译器一般定义wchar_t为4字节 宽。）
+
+tortoisegit usage
