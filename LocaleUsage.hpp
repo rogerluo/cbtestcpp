@@ -6,7 +6,9 @@
 #include <locale>
 #include <chrono>
 #include <boost/algorithm/string.hpp>
-#include <Windows.h>
+#if defined (_WIN32)
+#   include <Windows.h>
+#endif
 #include "Convert.hpp"
 #include "Utility.hpp"
 
@@ -106,7 +108,7 @@ void TestUsageSetLocaleInCPP()
 	*/
 	std::wcout.clear();
 	std::wcout.flush();
-	std::wcout.imbue(std::locale(""));
+	std::wcout.imbue(std::locale("eng"));
 	std::wcout<<L"\tCurrent Locale    : "<<String2WString(std::wcout.getloc().name())<<std::endl;
 	std::wcout<<L"\tThousand Separator: "<<std::use_facet<std::moneypunct<wchar_t> >(std::wcout.getloc()).thousands_sep()<<std::endl;
 	std::wcout<<L"\tGrouping          : "<<String2WString(std::use_facet<std::moneypunct<wchar_t> >(std::wcout.getloc()).grouping())<<std::endl;
