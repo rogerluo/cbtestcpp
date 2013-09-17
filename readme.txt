@@ -15,6 +15,3 @@ tortoisegit usage
 http://msdn.microsoft.com/en-us/library/windows/desktop/dd373814.aspx
 http://msdn.microsoft.com/en-us/library/windows/desktop/dd318716.aspx
 http://www.unicode.org/iso15924/iso15924-codes.html
-
-test commit from visual studio
-test commit from visual studio
