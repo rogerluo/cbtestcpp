@@ -29,6 +29,9 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="readme.txt" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{FF8647E5-791A-4535-8A3F-4CEFF80528DA}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
