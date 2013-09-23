@@ -8,3 +8,194 @@ ISO 639-3 Part 3: Alpha-3 code for comprehensive coverage of languages 第三部
 ISO 639-4 Part 4: Implementation guidelines and general principles for language coding 第四部分：语言编码的实施指南和一般原则 2010-07-16 2010-07-16 无 
 ISO 639-5 Part 5: Alpha-3 code for language families and groups 第五部分：语系和语族的3字母代码 2008-05-15 2008-05-15 114 
 ISO 639-6 Part 6: Alpha-4 representation for comprehensive coverage of language variants 第六部分：所有语言变体的4字母代码 2009-11-17 2009-11-17 数万 
+
+639-1 639-2 639-3 自称 英语名称 中国大陆名称 臺灣名稱 备注 
+aa aar aar Afaraf Afar 阿法尔语 阿法語 衣索比亞 
+ab abk abk Аҧсуа Abkhazian 阿布哈兹语 阿布哈茲語 高加索地區 
+ae ave ave avesta Avestan 阿维斯陀语 阿維斯特語 古波斯语 
+af afr afr Afrikaans Afrikaans 阿非利堪斯语 南非荷蘭語 又譯南非語 
+ak aka aka + 2 Akan Akan 阿坎语 阿坎語 加纳和科特迪瓦部分地区 
+am amh amh አማርኛ Amharic 阿姆哈拉语 阿姆哈拉語 衣索比亞 
+an arg arg Aragonés Aragonese 阿拉贡语 亞拉岡語 西班牙方言 
+ar ara ara + 30 العربية Arabic 阿拉伯语 阿拉伯語 这是广义的阿拉伯语；标准阿拉伯语的ISO 639-3代码是arb 
+as asm asm অসমীয়া Assamese 阿萨姆语 阿薩姆語   
+av ava ava авар мацӀ; магӀарул мацӀ Avaric 阿瓦尔语 阿瓦爾語 俄羅斯達吉斯坦共和國 
+ay aym aym + 2 aymar aru Aymara 艾马拉语 艾瑪拉語 美洲印第安语言，玻利維亞和秘魯的山區 
+az aze aze + 2 azərbaycan dili Azerbaijani 阿塞拜疆语 亞塞拜然語   
+ba bak bak башҡорт теле Bashkir 巴什基尔语 巴什噶爾語   
+be bel bel Беларуская Belarusian 白俄罗斯语 白俄羅斯語   
+bg bul bul български език Bulgarian 保加利亚语 保加利亞語   
+bh bih 无 भोजपुरी Bihari 比哈尔语 比哈爾語 印度 
+bi bis bis Bislama Bislama 比斯拉玛语 必斯拉馬語 萬那杜 
+bm bam bam bamanankan Bambara 班巴拉语 班巴拉語 马里 
+bn ben ben বাংলা Bengali 孟加拉语 孟加拉語   
+bo tib/bod bod བོད་ཡིག Tibetan 藏语 藏語   
+br bre bre brezhoneg Breton 布列塔尼语 布里多尼語 法國 
+bs bos bos bosanski jezik Bosnian 波斯尼亚语 波士尼亞語   
+ca cat cat Català Catalan 加泰隆语 加泰隆語 又称瓦倫西亞語 
+ce che che нохчийн мотт Chechen 车臣语 車臣語 俄罗斯 
+ch cha cha Chamoru Chamorro 查莫罗语 查莫洛語 关岛和北马里亚纳群岛 
+co cos cos corsu; lingua corsa Corsican 科西嘉语 科西嘉島方言   
+cr cre cre + 6 ᓀᐦᐃᔭᐍᐏᐣ Cree 克里语 克里語 美洲印第安语言，加拿大东部，西至艾伯塔省直至大奴湖 
+cs cze/ces ces česky; čeština Czech 捷克语 捷克語   
+cu chu chu ѩзыкъ словѣньскъ Church Slavic 教会斯拉夫语 古教會斯拉夫語   
+cv chv chv чӑваш чӗлхи Chuvash 楚瓦什语 楚瓦什語 俄羅斯楚瓦什共和國 
+cy wel/cym cym Cymraeg Welsh 威尔士语 威爾斯語 英國 
+da dan dan dansk Danish 丹麦语 丹麥語   
+de ger/deu deu Deutsch German 德语 德語   
+dv div div ދިވެހި Divehi 迪维希语 馬爾地夫語   
+dz dzo dzo རྫོང་ཁ Dzongkha 不丹语 不丹語   
+ee ewe ewe Ɛʋɛgbɛ Ewe 埃维语 幽語 加纳东南部、多哥南部和贝宁南部 
+el gre/ell ell Ελληνικά Greek 现代希腊语 現代希臘語   
+en eng eng English English 英语 英語   
+eo epo epo Esperanto Esperanto 世界语 世界語   
+es spa spa español; castellano Spanish; Castilian 西班牙语 西班牙語 又称卡斯蒂利亚语 
+et est est Eesti keel Estonian 爱沙尼亚语 愛沙尼亞語   
+eu baq/eus eus euskara Basque 巴斯克语 巴斯克語 西班牙 
+fa per/fas fas + 2 فارسی Persian 波斯语 波斯語   
+ff ful ful + 9 Fulfulde Fulah 富拉语 弗拉尼語 尼日利亚北部到马里的西非和大西洋沿岸地区 
+fi fin fin suomen kieli Finnish 芬兰语 芬蘭語   
+fj fij fij vosa Vakaviti Fijian 斐济语 斐濟語   
+fo fao fao Føroyskt Faroese 法罗斯语 法羅群島語 又译法罗语 
+fr fre/fra fra français; langue française French 法语 法語   
+fy fry fry + 3 Frysk Western Frisian 弗里西亚语 弗利西亞語 荷蘭、德國 
+ga gle gle Gaeilge Irish 爱尔兰语 愛爾蘭語   
+gd gla gla Gàidhlig Scottish Gaelic 苏格兰盖尔语 蓋爾語 苏格兰 
+gl glg glg Galego Galician 加利西亚语 加里西亞語   
+gn grn grn + 5 Avañe'ẽ Guaraní 瓜拉尼语 巴拉圭語   
+gu guj guj ગુજરાતી Gujarati 古吉拉特语 古吉拉特語 西印度 
+gv glv glv Ghaelg Manx 马恩岛语 曼島語 英国 
+ha hau hau هَوُسَ Hausa 豪萨语 豪撒語 西非洲 
+he heb heb עברית Hebrew 希伯来语 希伯來語   
+hi hin hin हिन्दी; हिंदी Hindi 印地语 印度語 北印度 
+ho hmo hmo Hiri Motu Hiri Motu 希里莫图语 希里木托語 巴布亞紐幾內亞 
+hr scr/hrv hrv Hrvatski Croatian 克罗地亚语 克羅埃西亞語   
+ht hat hat Kreyòl ayisyen Haitian Creole 海地克里奥尔语 海地克里奧爾語   
+hu hun hun Magyar Hungarian 匈牙利语 匈牙利語   
+hy arm/hye hye Հայերեն Armenian 亚美尼亚语 亞美尼亞語   
+hz her her Otjiherero Herero 赫雷罗语 赫雷羅語 纳米比亚和博茨瓦纳 
+ia ina ina Interlingua Interlingua
+(International Auxiliary Language Association) 国际语A 國際語 又译国际辅助语 
+id ind ind Bahasa Indonesia Indonesian 印尼语 印尼語   
+ie ile ile Interlingue Interlingue 国际语E 國際語   
+ig ibo ibo Igbo Igbo 伊博语 伊格柏語 尼日利亚东南部 
+ii iii iii ꆇꉙ Sichuan Yi 四川彝语 四川彝語   
+ik ipk ipk + 2 Iñupiaq; Iñupiatun Inupiaq 依努庇克语 伊努必語 美國愛斯基摩語 
+io ido ido Ido Ido 伊多语 伊多語 世界语的变种 
+is ice/isl isl Íslenska Icelandic 冰岛语 冰島語   
+it ita ita Italiano Italian 意大利语 義大利語   
+iu iku iku + 2 ᐃᓄᒃᑎᑐᑦ Inuktitut 伊努伊特语 伊努特語   
+ja jpn jpn 日本語 (にほんご／にっぽんご) Japanese 日语 日語   
+jv jav jav basa Jawa Javanese 爪哇语 爪哇語   
+ka geo/kat kat ქართული Georgian 格鲁吉亚语 喬治亞語   
+kg kon kon + 3 KiKongo Kongo 刚果语 剛果語 刚果共和国南部、刚果民主共和国西部和安哥拉北部 
+ki kik kik Gĩkũyũ Kikuyu 基库尤语 吉庫尤語 肯尼亚中部和南部 
+kj kua kua Kuanyama Kwanyama 宽亚玛语 貢耶瑪語 纳米比亚、安哥拉 
+kk kaz kaz Қазақ тілі; قازاق تىلى‎ Kazakh 哈萨克语 哈薩克語   
+kl kal kal kalaallisut; kalaallit oqaasii Kalaallisut 格陵兰语 格陵蘭語   
+km khm khm ភាសាខ្មែរ Khmer 高棉语 高棉語   
+kn kan kan ಕನ್ನಡ Kannada 坎纳达语 康納達語 西南印度 
+ko kor kor 한국어 (韓國語)
+조선말 (朝鮮말) Korean 朝鲜语 韓語   
+kr kau kau + 3 Kanuri Kanuri 卡努里语 卡努里語 尼日利亚东北部 
+ks kas kas कश्मीरी; كشميري Kashmiri 克什米尔语 喀什米爾語   
+ku kur kur + 3 Kurdî; كوردی Kurdish 库尔德语 庫德語   
+kv kom kom + 2 коми кыв Komi 科米语 科米語 俄羅斯科米共和國 
+kw cor cor Kernewek Cornish 康沃尔语 康瓦爾語 英国古方言 
+ky kir kir кыргыз тили; قىرعىز تىلى Kirghiz 吉尔吉斯语 吉爾吉斯語   
+la lat lat latine; lingua latina Latin 拉丁语 拉丁語   
+lb ltz ltz Lëtzebuergesch Luxembourgish 卢森堡语 盧森堡語   
+lg lug lug Luganda Ganda 干达语 盧干達語 乌干达南部 
+li lim lim Limburgs Limburgish 林堡语   荷兰和比利时 
+ln lin lin Lingála Lingala 林加拉语 林格拉語 剛果 
+lo lao lao ພາສາລາວ Lao 老挝语 寮國語   
+lt lit lit lietuvių kalba Lithuanian 立陶宛语 立陶宛語   
+lu lub lub Tshiluba Luba-Katanga 卢巴-加丹加语 盧巴卡丹加語   
+lv lav lav latviešu valoda Latvian 拉脱维亚语 拉脫維亞語   
+mg mlg mlg + 10 Malagasy fiteny Malagasy 马达加斯加语 馬拉加西語 馬達加斯加 
+mh mah mah Kajin M̧ajeļ Marshallese 马绍尔语 馬紹爾語   
+mi mao/mri mri te reo Māori Māori 毛利语 毛利語 新西兰 
+mk mac/mkd mkd македонски јазик Macedonian 马其顿语 馬其頓語   
+ml mal mal മലയാളം Malayalam 马拉亚拉姆语 馬拉亞拉姆語 印度西南马拉巴尔海岸喀拉拉邦，属达罗毗荼语系 
+mn mon mon + 2 ᠮᠣᠩᠭᠣᠯ
+ᠬᠡᠯᠡ; Монгол хэл Mongolian 蒙古语 蒙古語   
+mo mol mol лимба молдовеняскэ Moldavian 摩尔达维亚语 摩爾多瓦語   
+mr mar mar मराठी Marathi 马拉提语 馬拉提語 印度西部马哈拉施特拉邦 
+ms may/msa msa + 13 bahasa Melayu; بهاس ملايو Malay 马来语 馬來語 这是广义的马来语；马来语（狭义）的ISO 639-3代码是mly 
+mt mlt mlt Malti Maltese 马耳他语 馬爾他語   
+my bur/mya mya ဗမာစာ Burmese 缅甸语 緬甸語   
+na nau nau Ekakairũ Naoero Nauru 瑙鲁语 諾魯語   
+nb nob nob Norsk bokmål Norwegian Bokmål 挪威布克莫尔语 波克莫爾語 又称书面挪威语、标准挪威语 
+nd nde nde isiNdebele North Ndebele 北恩德贝勒语 北恩德貝勒語 津巴布韦西南部 
+ne nep nep नेपाली Nepali 尼泊尔语 尼泊爾語   
+ng ndo ndo Owambo Ndonga 恩敦加语 恩東加語 納米比亞、安哥拉 
+nl dut/nld nld Nederlands Dutch 荷兰语 荷蘭語   
+nn nno nno Norsk nynorsk Norwegian Nynorsk 新挪威语 新挪威語   
+no nor nor + 2 Norsk Norwegian 挪威语 挪威語   
+nr nbl nbl Ndébélé South Ndebele 南恩德贝勒语 南恩德貝勒語 津巴布韦西南部、南非 
+nv nav nav Diné bizaad; Dinékʼehǰí Navajo 纳瓦霍语 納瓦荷語 美洲印第安语，亚利桑那州，新墨西哥州和犹他州东南部 
+ny nya nya chiCheŵa; chinyanja Chichewa 尼扬贾语 齊切瓦語 马拉维 
+oc oci oci Occitan Occitan 奥克西唐语 奧西坦語 又譯奥克语（中世紀法國南部之語言），法國南部 
+oj oji oji + 7 ᐊᓂᔑᓈᐯᒧᐎᓐ Ojibwa 奥吉布瓦语 奧吉布瓦語 美国印第安语 
+om orm orm + 4 Afaan Oromoo Oromo 阿芳·奥洛莫语 奧洛莫語 衣索比亞 
+or ori ori ଓଡ଼ିଆ Oriya 奥利亚语 奧里亞語 印度 
+os oss oss Ирон æвзаг Ossetian 奥塞梯语 奧塞提語 古波斯语 
+pa pan pan ਪੰਜਾਬੀ; پنجابی Panjabi 旁遮普语 旁遮普語 印度西北部 
+pi pli pli पाऴि Pāli 巴利语 巴利語 古印度语 
+pl pol pol polski Polish 波兰语 波蘭語   
+ps pus pus + 3 پښتو Pashto 普什图语 普什圖語、帕圖語 伊朗、阿富汗 
+pt por por Português Portuguese 葡萄牙语 葡萄牙語   
+qu que que + 44 Runa Simi; Kichwa Quechua 凯楚亚语 奇楚瓦語 又译克丘亚语，玻利维亚 
+rm roh roh rumantsch grischun Raeto-Romance 利托-罗曼语 里托羅曼語 瑞士 
+rn run run kiRundi Kirundi 基隆迪语 克倫地語 布隆迪 
+ro rum/ron ron română Romanian 罗马尼亚语 羅馬尼亞語   
+ru rus rus русский язык Russian 俄语 俄語   
+rw kin kin Kinyarwanda Kinyarwanda 基尼阿万达语 盧安達語   
+sa san san संस्कृतम् Sanskrit 梵语 梵語 古印度语 
+sc srd srd + 4 sardu Sardinian 撒丁语 薩丁尼語 又稱薩丁尼亞語，意大利 
+sd snd snd सिन्धी; سنڌي، سندھی Sindhi 信德语 辛德語 印度 
+se sme sme Davvisámegiella Northern Sami 北萨米语 薩米語 挪威、芬兰 
+sg sag sag yângâ tî sängö Sango 桑戈语 桑戈語 中非 
+sh 无 hbs + 3 Srpskohrvatski; Српскохрватски Serbo-Croatian 塞尔维亚-克罗地亚语 塞爾維亞克羅埃西亞語 没有 ISO-639 2 代码。 ISO-639 3 代码是 hbs 
+si sin sin සිංහල Sinhalese 僧加罗语 僧伽羅語   
+sk slo/slk slk slovenčina Slovak 斯洛伐克语 斯洛伐克語   
+sl slv slv slovenščina Slovenian 斯洛文尼亚语 斯洛維尼亞語   
+sm smo smo gagana fa'a Samoa Samoan 萨摩亚语 薩摩亞語   
+sn sna sna chiShona Shona 绍纳语 紹納語 津巴布韦 
+so som som Soomaaliga; af Soomaali Somali 索马里语 索馬利語   
+sq alb/sqi sqi + 4 Shqip Albanian 阿尔巴尼亚语 阿爾巴尼亞語   
+sr scc/srp srp српски језик Serbian 塞尔维亚语 塞爾維亞語   
+ss ssw ssw SiSwati Swati 塞斯瓦替语 史瓦濟蘭語   
+st sot sot seSotho Sotho 塞索托语 南梭蘇語 南非 
+su sun sun Basa Sunda Sundanese 巽他语 巽他語 印尼蘇門達臘 
+sv swe swe Svenska Swedish 瑞典语 瑞典語   
+sw swa swa + 2 Kiswahili Swahili 斯瓦希里语 斯瓦西里語 东非洲 
+ta tam tam தமிழ் Tamil 泰米尔语 坦米爾語 新加坡译作淡米尔语，東南印度、斯里蘭卡 
+te tel tel తెలుగు Telugu 泰卢固语 德拉威語 東南印度 
+tg tgk tgk тоҷикӣ; toğikī; تاجیکی Tajik 塔吉克语 塔吉克語   
+th tha tha ไทย Thai 傣语 泰語   
+ti tir tir ትግርኛ Tigrinya 提格里尼亚语 提格利尼亞語 衣索比亞 
+tk tuk tuk Türkmen; Түркмен Turkmen 土库曼语 土庫曼語   
+tl tgl tgl Tagalog Tagalog 他加禄语 塔加拉語 菲律宾 
+tn tsn tsn seTswana Tswana 塞茨瓦纳语 茨瓦納語 博茨瓦纳 
+to ton ton faka Tonga Tonga 汤加语 東加語   
+tr tur tur Türkçe Turkish 土耳其语 土耳其語   
+ts tso tso xiTsonga Tsonga 宗加语 宋加語 南非 
+tt tat tat татарча; tatarça; تاتارچا Tatar 塔塔尔语 韃靼語 俄羅斯韃靼斯坦 
+tw twi twi Twi Twi 特威语 奇族語 迦纳 
+ty tah tah Reo Mā`ohi Tahitian 塔希提语 大溪地語   
+ug uig uig ئۇيغۇرچ; Uyƣurqə Uighur 维吾尔语 維吾兒語 新疆 
+uk ukr ukr Українська Ukrainian 乌克兰语 烏克蘭語   
+ur urd urd اردو Urdu 乌尔都语 烏爾都語 印巴回教徒語 
+uz uzb uzb + 2 O'zbek; Ўзбек; أۇزبېك Uzbek 乌兹别克语 烏茲別克語   
+ve ven ven tshiVenḓa Venda 文达语 溫達語 南非 
+vi vie vie Tiếng Việt Vietnamese 越南语 越南語   
+vo vol vol Volapük Volapük 沃拉普克语 世界語   
+wa wln wln Walon Walloon 沃伦语 瓦隆語 比利时 
+wo wol wol Wollof Wolof 沃洛夫语 渥魯夫語 尼日-剛果語之一，塞內加爾 
+xh xho xho isiXhosa Xhosa 科萨语 科薩語 南非 
+yi yid yid + 2 ייִדיש Yiddish 依地语 意第緒語 歐美猶太語 
+yo yor yor Yorùbá Yoruba 约鲁巴语 約魯巴語 尼日利亚 
+za zha zha + 2 Saw cuengh; Saɯ cueŋƅ Zhuang 壮语 壯語 廣西 
+zh chi/zho zho + 13 中文, 汉语, 漢語 Chinese 中文、汉语 中文   
+zu zul zul isiZulu Zulu 祖鲁语 祖魯語 南非 
