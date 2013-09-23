@@ -15,6 +15,7 @@ tortoisegit usage
 http://msdn.microsoft.com/en-us/library/windows/desktop/dd373814.aspx
 http://msdn.microsoft.com/en-us/library/windows/desktop/dd318716.aspx
 http://www.unicode.org/iso15924/iso15924-codes.html
+http://www.unicode.org/iso15924/iso15924-codes.html
 
 各个版本的区别
 alpha版：内部测试版。α是希腊字母的第一个，表示最早的版本，一般用户不要下载这个版本，这个版本一般是作为技术预览的，很可能包含很多BUG，功能也不全，主要是给开发人员和测试人员测试和找BUG用的。
